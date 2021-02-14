@@ -7,9 +7,9 @@
 - [Combine をはじめよう](https://speakerdeck.com/usamik26/getting-started-combine)（Mobile Act ONLINE #1 / 2020-07-22）
 - [Build for iPad recap](https://speakerdeck.com/usamik26/build-for-ipad-recap)（Swift 愛好会スピンオフ WWDC20 セッション要約会 / 2020-07-09）
 - [SwiftyMath で遊ぶ](https://speakerdeck.com/usamik26/play-swiftymath)（Mobile Act OSAKA #11 / 2019-09-20）
-- [SwiftUI による ViewController からの解放](https://usami-k.hatenablog.com/entry/2019/07/27/102920)（Mobile Act OSAKA #10 / 2019-07-26）
-- [Combine と SwiftUI](https://usami-k.hatenablog.com/entry/2019/06/13/005041)（帰ってきた関西モバイルアプリ研究会#2 / 2019-06-12）
-- [行列を Swift で実装する](https://usami-k.hatenablog.com/entry/2019/05/20/213158)（帰ってきた関西モバイルアプリ研究会 / 2019-05-15）
+- [SwiftUI による ViewController からの解放](https://speakerdeck.com/usamik26/swiftui-freed-from-viewcontroller)（Mobile Act OSAKA #10 / 2019-07-26）
+- [Combine と SwiftUI](https://speakerdeck.com/usamik26/combine-and-swiftui)（帰ってきた関西モバイルアプリ研究会#2 / 2019-06-12）
+- [行列を Swift で実装する](https://speakerdeck.com/usamik26/matrix-arithmetic-in-swift)（帰ってきた関西モバイルアプリ研究会 / 2019-05-15）
 - [ReactorKit でテストしやすくする](https://speakerdeck.com/usamik26/reactorkit-testability)（Mobile Act OSAKA #8 / 2019-02-15）
 - [Xamarin を使った iOS アプリ開発の現場から](https://speakerdeck.com/usamik26/xamarin-ios)（Mobile Act OSAKA #7 / 2018-11-16）
 - [RxSwift のスケジューラ](https://speakerdeck.com/usamik26/rxswift-scheduler)（Mobile Act OSAKA #6 / 2018-08-20）
