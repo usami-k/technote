@@ -1,6 +1,6 @@
 # technote
 
-## プレゼン
+## プレゼン資料
 
 - [Subject からはじめる Combine](https://speakerdeck.com/usamik26/combine-start-with-subject)（Mobile Act ONLINE #2 / 2020-10-09）
 - [はじめての原稿投稿](https://speakerdeck.com/usamik26/iosdc-writing-articles)（YUMEMI.swift #10 〜iOSDC Recap〜 / 2020-09-28）
