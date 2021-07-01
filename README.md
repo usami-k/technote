@@ -2,6 +2,10 @@
 
 ## プレゼン資料
 
+### 2021
+
+- [AsyncSequenceってなに？](https://speakerdeck.com/usamik26/meet-asyncsequence)（Mobile Act ONLINE #5 / 2021-06-30）（[2021/AsyncSequence](2021/AsyncSequence)）
+
 ### 2020
 
 - [Subject からはじめる Combine](https://speakerdeck.com/usamik26/combine-start-with-subject)（Mobile Act ONLINE #2 / 2020-10-09）（[2020/Combine_Start_With_Subject](2020/Combine_Start_With_Subject)）
