@@ -32,6 +32,29 @@
 
 - [Moq : Mocking Framework for .NET](https://speakerdeck.com/usamik26/moq)（Mobile Act OSAKA #2 / 2017-12-08）
 - [Apple Watch Cellular の通信について](https://speakerdeck.com/usamik26/apple-watch-cellular)（Mobile Act OSAKA #1 / 2017-10-04）
+- [Clean Architecture の大枠をざっくり理解する](https://speakerdeck.com/usamik26/clean-architecture-outline)（関西モバイルアプリ研究会 #24 / 2017-08-29）
+- [なぜ Xamarin を使うか - スマートフォンアプリ開発者の目線で](https://speakerdeck.com/usamik26/why-use-xamarin)（学生でもわかるXamarin勉強会 / 2017-06-17）
+- [Realm iOS を使うときのハマりポイント](https://speakerdeck.com/usamik26/realm-ios-code-review)（Realm World Tour Osaka / 2017-03-26）
+- [flatMap の話](https://speakerdeck.com/usamik26/swift-flatmap)（関西モバイルアプリ研究会 #23 / 2017-02-28）
+
+### 2016
+
+- [Swift String Interpolation](https://speakerdeck.com/usamik26/string-interpolation)（関西モバイルアプリ研究会 #20 / 2016-11-28）
+- [RxSwift Observable の作り方](https://speakerdeck.com/usamik26/rxswift-observable-dot-create)（関西モバイルアプリ研究会 #19 / 2016-10-26）
+- [Advanced Notification for iOS 10](https://speakerdeck.com/usamik26/advanced-notification-for-ios-10)（関西モバイルアプリ研究会 #18 / 2016-09-28）
+- [SwiftGen](https://speakerdeck.com/usamik26/swiftgen)（関西モバイルアプリ研究会 #17 / 2016-08-31）
+- [iOS アプリ開発の補助ツールのベストプラクティス](https://speakerdeck.com/usamik26/iosdc-2016-talk)（iOSDC Japan 2016 / 2016-08-19）
+- [デザイナーとエンジニアとのコミュニケーションの問題](https://speakerdeck.com/usamik26/communication-with-designer-and-engineer)（関西モバイルアプリ研究会 #16 / 2016-07-27）
+- [Realm Xamarin](https://speakerdeck.com/usamik26/realm-xamarin)（関西モバイルアプリ研究会 #15 / 2016-06-22）
+- [SnapKit - Auto Layout Library](https://speakerdeck.com/usamik26/snapkit)（関西モバイルアプリ研究会 #13 / 2016-04-26）
+- [View 系ライブラリに関する悩み](https://speakerdeck.com/usamik26/view-xi-raiburariniguan-surunao-mi)（関西モバイルアプリ研究会 #12 / 2016-03-30）
+- [RxSwift 5min](https://speakerdeck.com/usamik26/rxswift-5min)（関西モバイルアプリ研究会 #10 / 2016-01-27）
+
+### 2015
+
+### 2014
+
+### 2012
 
 ## ライセンス
 
