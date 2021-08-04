@@ -34,6 +34,7 @@
 - [Apple Watch Cellular の通信について](https://speakerdeck.com/usamik26/apple-watch-cellular)（Mobile Act OSAKA #1 / 2017-10-04）
 - [Clean Architecture の大枠をざっくり理解する](https://speakerdeck.com/usamik26/clean-architecture-outline)（関西モバイルアプリ研究会 #24 / 2017-08-29）
 - [なぜ Xamarin を使うか - スマートフォンアプリ開発者の目線で](https://speakerdeck.com/usamik26/why-use-xamarin)（学生でもわかるXamarin勉強会 / 2017-06-17）
+- [flatMap の話](https://speakerdeck.com/usamik26/swift-flatmap-2)（フェンリル社内勉強会 / 2017-04-12）
 - [Realm iOS を使うときのハマりポイント](https://speakerdeck.com/usamik26/realm-ios-code-review)（Realm World Tour Osaka / 2017-03-26）
 - [flatMap の話](https://speakerdeck.com/usamik26/swift-flatmap)（関西モバイルアプリ研究会 #23 / 2017-02-28）
 
