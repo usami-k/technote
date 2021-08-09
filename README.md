@@ -2,6 +2,8 @@
 
 ## プレゼン資料
 
+※ 数学関連のプレゼン資料は [mathematics](https://github.com/usami-k/mathematics/blob/master/README.md) にまとめています。
+
 ### 2021
 
 - [AsyncSequenceってなに？](https://speakerdeck.com/usamik26/meet-asyncsequence)（Mobile Act ONLINE #5 / 2021-06-30）（[2021/AsyncSequence](2021/AsyncSequence)）
