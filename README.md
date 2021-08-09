@@ -69,9 +69,12 @@
 - [アプリ開発者から見た iBeacon](https://speakerdeck.com/usamik26/ibeacon-applications)（ジオメディアサミット大阪2014 / 2014-10-03）
 - [すごいHaskell読書会 第7章](https://speakerdeck.com/usamik26/sugoih-8)（すごいHaskell読書会 in 大阪 2週目 #8 / 2014-08-20）
 - [Xamarin.iOS](https://speakerdeck.com/usamik26/xamarin-dot-ios)（第57回 Cocoa 勉強会関西 / 2014-08-09）
-- [CotEditor のスクリプトの作り方](https://speakerdeck.com/usamik26/coteditor-script)（2014-08-06）
-- [アフィン変換の話](https://speakerdeck.com/usamik26/affine-transform)（2014-06-25）
-- [Semantic Versioning](https://speakerdeck.com/usamik26/semantic-versioning)（2014-04-23）
+- [CotEditor のスクリプトの作り方](https://speakerdeck.com/usamik26/coteditor-script)（フェンリル社内勉強会
+ / 2014-08-06）
+- [アフィン変換の話](https://speakerdeck.com/usamik26/affine-transform)（フェンリル社内勉強会
+ / 2014-06-25）
+- [Semantic Versioning](https://speakerdeck.com/usamik26/semantic-versioning)（フェンリル社内勉強会
+ / 2014-04-23）
 
 ### 2012
 
