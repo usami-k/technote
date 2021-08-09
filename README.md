@@ -53,9 +53,31 @@
 
 ### 2015
 
+- [Layout Debug with Reveal.app](https://speakerdeck.com/usamik26/layout-debug-with-reveal-dot-app)（関西モバイルアプリ研究会 #9 / 2015-12-22）
+- [Auto Layout Tips](https://speakerdeck.com/usamik26/auto-layout-tips)（関西モバイルアプリ研究会 #8 / 2015-11-30）
+- [RxSwift x APIKit](https://speakerdeck.com/usamik26/rxswift-x-apikit)（関西モバイルアプリ研究会 #6 / 2015-09-30）
+- [RxSwift x Realm](https://speakerdeck.com/usamik26/rxswift-x-realm)（Realm meetup #7 / 2015-09-29）
+- [RxSwift](https://speakerdeck.com/usamik26/rxswift)（関西モバイルアプリ研究会 #5 / 2015-08-26）
+- [Eddystone Beacon](https://speakerdeck.com/usamik26/eddystone-beacon)（関西モバイルアプリ研究会 #4 / 2015-07-21）
+- [Xamarin で Apple Watch アプリを作る](https://speakerdeck.com/usamik26/xamarin-apple-watch)（第5回 Japan Xamarin User Group Conference 大阪 / 2015-07-11）
+- [Swift らしい API クライアント - APIKit を使う -](https://speakerdeck.com/usamik26/apikit)（関西モバイルアプリ研究会 #2 / 2015-05-20）
+- [Swift のライブラリの話](https://speakerdeck.com/usamik26/swift-library)（フェンリル社内勉強会 / 2015-05-15）
+
 ### 2014
 
+- [iOS エンジニアが Xamarin を始めた話](https://speakerdeck.com/usamik26/jxug-conference-2-west)（第2回 Japan Xamarin User Group Conference 西日本編 / 2014-11-08）
+- [アプリ開発者から見た iBeacon](https://speakerdeck.com/usamik26/ibeacon-applications)（ジオメディアサミット大阪2014 / 2014-10-03）
+- [すごいHaskell読書会 第7章](https://speakerdeck.com/usamik26/sugoih-8)（すごいHaskell読書会 in 大阪 2週目 #8 / 2014-08-20）
+- [Xamarin.iOS](https://speakerdeck.com/usamik26/xamarin-dot-ios)（第57回 Cocoa 勉強会関西 / 2014-08-09）
+- [CotEditor のスクリプトの作り方](https://speakerdeck.com/usamik26/coteditor-script)（2014-08-06）
+- [アフィン変換の話](https://speakerdeck.com/usamik26/affine-transform)（2014-06-25）
+- [Semantic Versioning](https://speakerdeck.com/usamik26/semantic-versioning)（2014-04-23）
+
 ### 2012
+
+- [Mac アプリの Retina 対応](https://speakerdeck.com/usamik26/mac-app-retina)（第47回 Cocoa 勉強会関西 / 2012-12-01）
+- [Mountain Lion の Sharing Service](https://speakerdeck.com/usamik26/mountain-lion-sharing-service)（第45回 Cocoa 勉強会関西 / 2012-08-25）
+- [OS X Lion の Versions 対応](https://speakerdeck.com/usamik26/os-x-lion-versions)（第42回 Cocoa 勉強会関西 / 2012-01-21）
 
 ## ライセンス
 
