@@ -6,6 +6,7 @@
 
 ### 2021
 
+- [UIレンダリングの仕組みを知る](https://speakerdeck.com/usamik26/render-loop)（potatotips #75 / 2021-08-12）（[2021/RenderLoop](2021/RenderLoop)）
 - [AsyncSequenceってなに？](https://speakerdeck.com/usamik26/meet-asyncsequence)（Mobile Act ONLINE #5 / 2021-06-30）（[2021/AsyncSequence](2021/AsyncSequence)）
 
 ### 2020
