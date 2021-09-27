@@ -6,6 +6,7 @@
 
 ### 2021
 
+- [パンフレット記事「Combine Operator ガイド」についての解説と補足](https://speakerdeck.com/usamik26/combine-operator-guide)（YUMEMI.swift #13 〜裏iOSDC〜 / 2021-09-27）（[2021/CombineOperatorGuide](2021/CombineOperatorGuide)）
 - [iOSDCのパンフレット記事をこうやって書きました](https://speakerdeck.com/usamik26/iosdc-writing-article)（iOSDC Japan 2021 / 2021-09-17）（[2021/iOSDCWritingArticle](2021/iOSDCWritingArticle)）
 - [UIレンダリングの仕組みを知る](https://speakerdeck.com/usamik26/render-loop)（potatotips #75 / 2021-08-12）（[2021/RenderLoop](2021/RenderLoop)）
 - [AsyncSequenceってなに？](https://speakerdeck.com/usamik26/meet-asyncsequence)（Mobile Act ONLINE #5 / 2021-06-30）（[2021/AsyncSequence](2021/AsyncSequence)）
