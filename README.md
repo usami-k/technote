@@ -4,6 +4,10 @@
 
 ※ 数学関連のプレゼン資料は [mathematics](https://github.com/usami-k/mathematics/blob/master/README.md) にまとめています。
 
+### 2022
+
+- [アーキテクチャ概論](https://speakerdeck.com/usamik26/20220217-geekcamp-slides-usami)（【エンジニア向け勉強会】iOSアプリ アーキテクチャ入門 | 技育CAMP / 2022-02-17）（[2022/AboutArchitecture](2022/AboutArchitecture)）
+
 ### 2021
 
 - [Swift-DocCによるドキュメントの作成と活用](https://speakerdeck.com/usamik26/swift-docc)（YUMEMI.swift #14 〜今年の振り返り〜 / 2021-12-17）（[2021/SwiftDocC](2021/SwiftDocC)）

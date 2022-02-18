@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "*",
+    "@slidev/theme-apple-basic": "*",
+    "playwright-chromium": "*"
+  },
+  "name": "slidev",
+  "devDependencies": {
+    "@iconify-json/mdi": "^1.1.0"
+  }
+}
