@@ -6,6 +6,7 @@
 
 ### 2022
 
+- [Swift-DocCやDokkaでアプリのドキュメントを書いてみる](https://speakerdeck.com/usamik26/appdocumentation)（Mobile勉強会 Wantedly × チームラボ #4 / 2022-02-22）（[2022/AppDocumentation](2022/AppDocumentation)）
 - [アーキテクチャ概論](https://speakerdeck.com/usamik26/20220217-geekcamp-slides-usami)（【エンジニア向け勉強会】iOSアプリ アーキテクチャ入門 | 技育CAMP / 2022-02-17）（[2022/AboutArchitecture](2022/AboutArchitecture)）
 
 ### 2021
