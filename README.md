@@ -1,9 +1,5 @@
 # technote
 
-## プレゼン資料
-
-※ 数学関連のプレゼン資料は [mathematics](https://github.com/usami-k/mathematics/blob/master/README.md) にまとめています。
-
 ### 2022
 
 - [Swift 5.6 で使えるようになった swift-docc-plugin を試してみる](https://speakerdeck.com/usamik26/try-swift-docc-plugin)（Swift愛好会 vol.66 / 2022-03-17）（[2022/try-swift-docc-plugin](2022/try-swift-docc-plugin)）
