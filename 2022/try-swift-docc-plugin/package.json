@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "name": "slidev",
+  "scripts": {
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "*",
+    "@slidev/theme-apple-basic": "*",
+    "playwright-chromium": "*"
+  },
+  "devDependencies": {}
+}
