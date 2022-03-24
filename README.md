@@ -4,6 +4,7 @@
 
 ### 2022
 
+- [SwiftPMのプラグイン機能を活用する](https://speakerdeck.com/usamik26/swiftpm-buildtool-plugins)（potatotips #77 / 2022-03-24）（[2022/swiftpm_buildtool_plugins](2022/swiftpm_buildtool_plugins)）
 - [Swift 5.6 で使えるようになった swift-docc-plugin を試してみる](https://speakerdeck.com/usamik26/try-swift-docc-plugin)（Swift愛好会 vol.66 / 2022-03-17）（[2022/try-swift-docc-plugin](2022/try-swift-docc-plugin)）
 - [Swift-DocCやDokkaでアプリのドキュメントを書いてみる](https://speakerdeck.com/usamik26/appdocumentation)（Mobile勉強会 Wantedly × チームラボ #4 / 2022-02-22）（[2022/AppDocumentation](2022/AppDocumentation)）
 - [アーキテクチャ概論](https://speakerdeck.com/usamik26/20220217-geekcamp-slides-usami)（【エンジニア向け勉強会】iOSアプリ アーキテクチャ入門 | 技育CAMP / 2022-02-17）（[2022/AboutArchitecture](2022/AboutArchitecture)）
