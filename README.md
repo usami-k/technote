@@ -4,6 +4,7 @@
 
 ### 2022
 
+- [Swift Regexの話](https://speakerdeck.com/usamik26/swift-regex)（YUMEMI.swift #15 〜WWDC復習会〜 / 2022-06-27）（[2022/swift_regex](2022/swift_regex)）
 - [Meet Swift Regex](https://speakerdeck.com/usamik26/meet-swift-regex)（Swift愛好会スピンオフ WWDC22セッション要約会 / 2022-06-24）（[2022/meet_swift_regex](2022/meet_swift_regex)）
 - [SwiftPMのプラグイン機能を活用する](https://speakerdeck.com/usamik26/swiftpm-buildtool-plugins)（potatotips #77 / 2022-03-24）（[2022/swiftpm_buildtool_plugins](2022/swiftpm_buildtool_plugins)）
 - [Swift 5.6 で使えるようになった swift-docc-plugin を試してみる](https://speakerdeck.com/usamik26/try-swift-docc-plugin)（Swift愛好会 vol.66 / 2022-03-17）（[2022/try-swift-docc-plugin](2022/try-swift-docc-plugin)）
