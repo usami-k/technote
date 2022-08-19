@@ -1,0 +1,23 @@
+{
+  "name": "slidev",
+  "private": true,
+  "scripts": {
+    "dev": "slidev --open",
+    "export": "slidev export --dark"
+  },
+  "dependencies": {
+    "@iconify-json/mdi": "^1.1.30",
+    "@slidev/cli": "*",
+    "@slidev/theme-apple-basic": "*",
+    "playwright-chromium": "*"
+  },
+  "devDependencies": {
+    "textlint": "*",
+    "textlint-rule-preset-ja-spacing": "*",
+    "textlint-rule-preset-ja-technical-writing": "*"
+  },
+  "volta": {
+    "node": "16.16.0",
+    "yarn": "1.22.19"
+  }
+}
