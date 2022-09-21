@@ -4,6 +4,7 @@
 
 ### 2022
 
+- [SwiftPMのプラグイン機能をiOSアプリ開発に活用する](https://speakerdeck.com/usamik26/development-app-with-swiftpm-plugins)（iOSDC Japan 2022 / 2022-09-10）（[2022/development_app_with_swiftpm_plugins](2022/development_app_with_swiftpm_plugins)）
 - [正規表現の少し進んだ機能](https://speakerdeck.com/usamik26/regex-lookahead)（KyotoLT Online 第27回 / 2022-08-19）（[2022/regex_lookahead](2022/regex_lookahead)）
 - [Swift Regexの話](https://speakerdeck.com/usamik26/swift-regex)（YUMEMI.swift #15 〜WWDC復習会〜 / 2022-06-27）（[2022/swift_regex](2022/swift_regex)）
 - [Meet Swift Regex](https://speakerdeck.com/usamik26/meet-swift-regex)（Swift愛好会スピンオフ WWDC22セッション要約会 / 2022-06-24）（[2022/meet_swift_regex](2022/meet_swift_regex)）

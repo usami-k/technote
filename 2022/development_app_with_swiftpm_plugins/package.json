@@ -1,0 +1,23 @@
+{
+  "name": "slidev",
+  "private": true,
+  "scripts": {
+    "dev": "slidev --open",
+    "export": "slidev export --dark"
+  },
+  "dependencies": {
+    "@slidev/cli": "*",
+    "@slidev/theme-apple-basic": "*",
+    "playwright-chromium": "*"
+  },
+  "devDependencies": {
+    "textlint": "*",
+    "textlint-rule-preset-ja-spacing": "*",
+    "textlint-rule-preset-ja-technical-writing": "*",
+    "textlint-filter-rule-comments": "*"
+  },
+  "volta": {
+    "node": "16.15.1",
+    "yarn": "1.22.19"
+  }
+}
