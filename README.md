@@ -4,7 +4,7 @@
 
 ### 2022
 
-- [SwiftPMのプラグイン機能をiOSアプリ開発に活用する](https://speakerdeck.com/usamik26/road-to-iosdc-japan-2022)（YUMEMI.grow【iOSDCアフター会】 / 2022-09-30）（[2022/road-to-iosdc-japan-2022](2022/road-to-iosdc-japan-2022)）
+- [iOSDC Japan 2022 への道](https://speakerdeck.com/usamik26/road-to-iosdc-japan-2022)（YUMEMI.grow【iOSDCアフター会】 / 2022-09-30）（[2022/road-to-iosdc-japan-2022](2022/road-to-iosdc-japan-2022)）
 - [開発支援のための組織体制 〜ゆめみの情報共有と成長環境〜](https://speakerdeck.com/usamik26/abceed-tech-night-yumemi)（abceed Tech Night【 iOS祭り 】 / 2022-09-29）
 - [技術書典13 会社紹介 ゆめみ](https://speakerdeck.com/usamik26/techbookfest13-yumemi)（技術書典13スペシャルオンラインイベント / 2022-09-25）
 - [SwiftPMのプラグイン機能をiOSアプリ開発に活用する](https://speakerdeck.com/usamik26/development-app-with-swiftpm-plugins)（iOSDC Japan 2022 / 2022-09-10）（[2022/development_app_with_swiftpm_plugins](2022/development_app_with_swiftpm_plugins)）
