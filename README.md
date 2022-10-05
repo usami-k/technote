@@ -4,6 +4,9 @@
 
 ### 2022
 
+- [SwiftPMのプラグイン機能をiOSアプリ開発に活用する](https://speakerdeck.com/usamik26/road-to-iosdc-japan-2022)（YUMEMI.grow【iOSDCアフター会】 / 2022-09-30）（[2022/road-to-iosdc-japan-2022](2022/road-to-iosdc-japan-2022)）
+- [開発支援のための組織体制 〜ゆめみの情報共有と成長環境〜](https://speakerdeck.com/usamik26/abceed-tech-night-yumemi)（abceed Tech Night【 iOS祭り 】 / 2022-09-29）
+- [技術書典13 会社紹介 ゆめみ](https://speakerdeck.com/usamik26/techbookfest13-yumemi)（技術書典13スペシャルオンラインイベント / 2022-09-25）
 - [SwiftPMのプラグイン機能をiOSアプリ開発に活用する](https://speakerdeck.com/usamik26/development-app-with-swiftpm-plugins)（iOSDC Japan 2022 / 2022-09-10）（[2022/development_app_with_swiftpm_plugins](2022/development_app_with_swiftpm_plugins)）
 - [正規表現の少し進んだ機能](https://speakerdeck.com/usamik26/regex-lookahead)（KyotoLT Online 第27回 / 2022-08-19）（[2022/regex_lookahead](2022/regex_lookahead)）
 - [Swift Regexの話](https://speakerdeck.com/usamik26/swift-regex)（YUMEMI.swift #15 〜WWDC復習会〜 / 2022-06-27）（[2022/swift_regex](2022/swift_regex)）
