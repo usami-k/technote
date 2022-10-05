@@ -7,11 +7,11 @@
 - [iOSDC Japan 2022 への道](https://speakerdeck.com/usamik26/road-to-iosdc-japan-2022)（YUMEMI.grow【iOSDCアフター会】 / 2022-09-30）（[2022/road-to-iosdc-japan-2022](2022/road-to-iosdc-japan-2022)）
 - [開発支援のための組織体制 〜ゆめみの情報共有と成長環境〜](https://speakerdeck.com/usamik26/abceed-tech-night-yumemi)（abceed Tech Night【 iOS祭り 】 / 2022-09-29）
 - [技術書典13 会社紹介 ゆめみ](https://speakerdeck.com/usamik26/techbookfest13-yumemi)（技術書典13スペシャルオンラインイベント / 2022-09-25）
-- [SwiftPMのプラグイン機能をiOSアプリ開発に活用する](https://speakerdeck.com/usamik26/development-app-with-swiftpm-plugins)（iOSDC Japan 2022 / 2022-09-10）（[2022/development_app_with_swiftpm_plugins](2022/development_app_with_swiftpm_plugins)）
-- [正規表現の少し進んだ機能](https://speakerdeck.com/usamik26/regex-lookahead)（KyotoLT Online 第27回 / 2022-08-19）（[2022/regex_lookahead](2022/regex_lookahead)）
-- [Swift Regexの話](https://speakerdeck.com/usamik26/swift-regex)（YUMEMI.swift #15 〜WWDC復習会〜 / 2022-06-27）（[2022/swift_regex](2022/swift_regex)）
-- [Meet Swift Regex](https://speakerdeck.com/usamik26/meet-swift-regex)（Swift愛好会スピンオフ WWDC22セッション要約会 / 2022-06-24）（[2022/meet_swift_regex](2022/meet_swift_regex)）
-- [SwiftPMのプラグイン機能を活用する](https://speakerdeck.com/usamik26/swiftpm-buildtool-plugins)（potatotips #77 / 2022-03-24）（[2022/swiftpm_buildtool_plugins](2022/swiftpm_buildtool_plugins)）
+- [SwiftPMのプラグイン機能をiOSアプリ開発に活用する](https://speakerdeck.com/usamik26/development-app-with-swiftpm-plugins)（iOSDC Japan 2022 / 2022-09-10）（[2022/development-app-with-swiftpm-plugins](2022/development-app-with-swiftpm-plugins)）
+- [正規表現の少し進んだ機能](https://speakerdeck.com/usamik26/regex-lookahead)（KyotoLT Online 第27回 / 2022-08-19）（[2022/regex-lookahead](2022/regex-lookahead)）
+- [Swift Regexの話](https://speakerdeck.com/usamik26/swift-regex)（YUMEMI.swift #15 〜WWDC復習会〜 / 2022-06-27）（[2022/swift-regex](2022/swift-regex)）
+- [Meet Swift Regex](https://speakerdeck.com/usamik26/meet-swift-regex)（Swift愛好会スピンオフ WWDC22セッション要約会 / 2022-06-24）（[2022/meet-swift-regex](2022/meet-swift-regex)）
+- [SwiftPMのプラグイン機能を活用する](https://speakerdeck.com/usamik26/swiftpm-buildtool-plugins)（potatotips #77 / 2022-03-24）（[2022/swiftpm-buildtool-plugins](2022/swiftpm-buildtool-plugins)）
 - [Swift 5.6 で使えるようになった swift-docc-plugin を試してみる](https://speakerdeck.com/usamik26/try-swift-docc-plugin)（Swift愛好会 vol.66 / 2022-03-17）（[2022/try-swift-docc-plugin](2022/try-swift-docc-plugin)）
 - [Swift-DocCやDokkaでアプリのドキュメントを書いてみる](https://speakerdeck.com/usamik26/appdocumentation)（Mobile勉強会 Wantedly × チームラボ #4 / 2022-02-22）（[2022/AppDocumentation](2022/AppDocumentation)）
 - [アーキテクチャ概論](https://speakerdeck.com/usamik26/20220217-geekcamp-slides-usami)（【エンジニア向け勉強会】iOSアプリ アーキテクチャ入門 | 技育CAMP / 2022-02-17）（[2022/AboutArchitecture](2022/AboutArchitecture)）
