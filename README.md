@@ -4,6 +4,7 @@
 
 ### 2022
 
+- [Rust＋WebAssemblyをさわってみた話](https://speakerdeck.com/usamik26/rust-webassembly)（KyotoLT Online 第28回 / 2022-12-09）（[2022/rust-webassembly](2022/rust-webassembly)）
 - [Apple Pencilのホバー機能を試す](https://speakerdeck.com/usamik26/pencil-hover)（potatotips #79 / 2022-10-31）（[2022/pencil-hover](2022/pencil-hover)）
 - [iOSDC Japan 2022 への道](https://speakerdeck.com/usamik26/road-to-iosdc-japan-2022)（YUMEMI.grow【iOSDCアフター会】 / 2022-09-30）（[2022/road-to-iosdc-japan-2022](2022/road-to-iosdc-japan-2022)）
 - [開発支援のための組織体制 〜ゆめみの情報共有と成長環境〜](https://speakerdeck.com/usamik26/abceed-tech-night-yumemi)（abceed Tech Night【 iOS祭り 】 / 2022-09-29）
