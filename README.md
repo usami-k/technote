@@ -2,6 +2,10 @@
 
 ## プレゼン資料
 
+### 2023
+
+- [Swift Extension for Visual Studio Code](https://speakerdeck.com/usamik26/swift-extension-for-visual-studio-code)（Swift愛好会 vol.72 / 2023-02-27）（[2023/SwiftVSCode](2023/SwiftVSCode)）
+
 ### 2022
 
 - [Rust＋WebAssemblyをさわってみた話](https://speakerdeck.com/usamik26/rust-webassembly)（KyotoLT Online 第28回 / 2022-12-09）（[2022/rust-webassembly](2022/rust-webassembly)）
