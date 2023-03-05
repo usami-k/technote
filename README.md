@@ -4,8 +4,8 @@
 
 ### 2023
 
-- [Coding Swift with Visual Studio Code and Docker](https://speakerdeck.com/usamik26/coding-swift-with-visual-studio-code-and-docker)（KyotoLT Online 第29回 / 2023-03-03）（[2023/SwiftVSCodeDocker](2023/SwiftVSCodeDocker)）
-- [Swift Extension for Visual Studio Code](https://speakerdeck.com/usamik26/swift-extension-for-visual-studio-code)（Swift愛好会 vol.72 / 2023-02-27）（[2023/SwiftVSCode](2023/SwiftVSCode)）
+- [Coding Swift with Visual Studio Code and Docker](https://speakerdeck.com/usamik26/coding-swift-with-visual-studio-code-and-docker)（KyotoLT Online 第29回 / 2023-03-03）（[2023/swift-vscode-docker](2023/swift-vscode-docker)）
+- [Swift Extension for Visual Studio Code](https://speakerdeck.com/usamik26/swift-extension-for-visual-studio-code)（Swift愛好会 vol.72 / 2023-02-27）（[2023/swift-vscode](2023/swift-vscode)）
 
 ### 2022
 
