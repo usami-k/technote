@@ -4,6 +4,7 @@
 
 ### 2023
 
+- [これからUICollectionViewを実践活用する人のためのガイド](https://speakerdeck.com/usamik26/guide-to-uicollectionview)（YUMEMI.grow Mobile #5 / 2023-07-12）（[2023/guide-to-uicollectionview](2023/guide-to-uicollectionview)）
 - [Xcodeとの最近の付き合い方のはなし](https://speakerdeck.com/usamik26/approach-to-xcode)（YUMEMI.grow Mobile #3 / 2023-05-10）（[2023/approach-to-xcode](2023/approach-to-xcode)）
 - [UICollectionView Compositional Layout 振り返り](https://speakerdeck.com/usamik26/uicollectionview-compositional-layout)（YUMEMI.grow Mobile #1 / 2023-03-07）（[2023/review-compositional-layout](2023/review-compositional-layout)）
 - [Coding Swift with Visual Studio Code and Docker](https://speakerdeck.com/usamik26/coding-swift-with-visual-studio-code-and-docker)（KyotoLT Online 第29回 / 2023-03-03）（[2023/swift-vscode-docker](2023/swift-vscode-docker)）
