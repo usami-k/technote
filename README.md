@@ -4,6 +4,7 @@
 
 ### 2023
 
+- [ゆめみ大技林製作委員会の立ち上げの話](https://speakerdeck.com/usamik26/daigirin-project)（YUMEMI.grow 技術同人誌を支える技術 / 2023-08-23）（[2023/daigirin-project](2023/daigirin-project)）
 - [@ViewLoadingプロパティラッパの紹介と自前で実装する方法](https://speakerdeck.com/usamik26/at-viewloading-property-wrapper-implementation)（YUMEMI.grow Mobile #6 / 2023-08-10）（[2023/viewloading-property](2023/viewloading-property)）
 - [これからUICollectionViewを実践活用する人のためのガイド](https://speakerdeck.com/usamik26/guide-to-uicollectionview)（YUMEMI.grow Mobile #5 / 2023-07-12）（[2023/guide-to-uicollectionview](2023/guide-to-uicollectionview)）
 - [Xcodeとの最近の付き合い方のはなし](https://speakerdeck.com/usamik26/approach-to-xcode)（YUMEMI.grow Mobile #3 / 2023-05-10）（[2023/approach-to-xcode](2023/approach-to-xcode)）
