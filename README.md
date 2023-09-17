@@ -4,6 +4,7 @@
 
 ### 2023
 
+- [Apple HIG 正式名称クイズ結果発表](https://speakerdeck.com/usamik26/hig-quiz-result)（After iOSDC 兼ゆめみスカラシップ参加者発表会 / 2023-09-08）（[2023/iosdc-hig-quiz](2023/iosdc-hig-quiz)）
 - [ゆめみ大技林製作委員会の立ち上げの話](https://speakerdeck.com/usamik26/daigirin-project)（YUMEMI.grow 技術同人誌を支える技術 / 2023-08-23）（[2023/daigirin-project](2023/daigirin-project)）
 - [@ViewLoadingプロパティラッパの紹介と自前で実装する方法](https://speakerdeck.com/usamik26/at-viewloading-property-wrapper-implementation)（YUMEMI.grow Mobile #6 / 2023-08-10）（[2023/viewloading-property](2023/viewloading-property)）
 - [これからUICollectionViewを実践活用する人のためのガイド](https://speakerdeck.com/usamik26/guide-to-uicollectionview)（YUMEMI.grow Mobile #5 / 2023-07-12）（[2023/guide-to-uicollectionview](2023/guide-to-uicollectionview)）
