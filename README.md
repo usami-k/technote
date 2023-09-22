@@ -4,14 +4,14 @@
 
 ### 2023
 
-- [Apple HIG 正式名称クイズ結果発表](https://speakerdeck.com/usamik26/hig-quiz-result)（After iOSDC 兼ゆめみスカラシップ参加者発表会 / 2023-09-08）（[2023/iosdc-hig-quiz](2023/iosdc-hig-quiz)）
-- [ゆめみ大技林製作委員会の立ち上げの話](https://speakerdeck.com/usamik26/daigirin-project)（YUMEMI.grow 技術同人誌を支える技術 / 2023-08-23）（[2023/daigirin-project](2023/daigirin-project)）
-- [@ViewLoadingプロパティラッパの紹介と自前で実装する方法](https://speakerdeck.com/usamik26/at-viewloading-property-wrapper-implementation)（YUMEMI.grow Mobile #6 / 2023-08-10）（[2023/viewloading-property](2023/viewloading-property)）
-- [これからUICollectionViewを実践活用する人のためのガイド](https://speakerdeck.com/usamik26/guide-to-uicollectionview)（YUMEMI.grow Mobile #5 / 2023-07-12）（[2023/guide-to-uicollectionview](2023/guide-to-uicollectionview)）
-- [Xcodeとの最近の付き合い方のはなし](https://speakerdeck.com/usamik26/approach-to-xcode)（YUMEMI.grow Mobile #3 / 2023-05-10）（[2023/approach-to-xcode](2023/approach-to-xcode)）
-- [UICollectionView Compositional Layout 振り返り](https://speakerdeck.com/usamik26/uicollectionview-compositional-layout)（YUMEMI.grow Mobile #1 / 2023-03-07）（[2023/review-compositional-layout](2023/review-compositional-layout)）
-- [Coding Swift with Visual Studio Code and Docker](https://speakerdeck.com/usamik26/coding-swift-with-visual-studio-code-and-docker)（KyotoLT Online 第29回 / 2023-03-03）（[2023/swift-vscode-docker](2023/swift-vscode-docker)）
-- [Swift Extension for Visual Studio Code](https://speakerdeck.com/usamik26/swift-extension-for-visual-studio-code)（Swift愛好会 vol.72 / 2023-02-27）（[2023/swift-vscode](2023/swift-vscode)）
+- [Apple HIG 正式名称クイズ結果発表](https://www.docswell.com/s/usami-k/KP9LX8-hig-quiz-result)（After iOSDC 兼ゆめみスカラシップ参加者発表会 / 2023-09-08）（[2023/iosdc-hig-quiz](2023/iosdc-hig-quiz)）
+- [ゆめみ大技林製作委員会の立ち上げの話](https://www.docswell.com/s/usami-k/KXY9QY-daigirin-project)（YUMEMI.grow 技術同人誌を支える技術 / 2023-08-23）（[2023/daigirin-project](2023/daigirin-project)）
+- [@ViewLoadingプロパティラッパの紹介と自前で実装する方法](https://www.docswell.com/s/usami-k/ZDE96N-at-viewloading-property-wrapper-implementation)（YUMEMI.grow Mobile #6 / 2023-08-10）（[2023/viewloading-property](2023/viewloading-property)）
+- [これからUICollectionViewを実践活用する人のためのガイド](https://www.docswell.com/s/usami-k/5W1L3X-guide-to-uicollectionview)（YUMEMI.grow Mobile #5 / 2023-07-12）（[2023/guide-to-uicollectionview](2023/guide-to-uicollectionview)）
+- [Xcodeとの最近の付き合い方のはなし](https://www.docswell.com/s/usami-k/K8G9LW-approach-to-xcode)（YUMEMI.grow Mobile #3 / 2023-05-10）（[2023/approach-to-xcode](2023/approach-to-xcode)）
+- [UICollectionView Compositional Layout 振り返り](https://www.docswell.com/s/usami-k/Z3894J-uicollectionview-compositional-layout)（YUMEMI.grow Mobile #1 / 2023-03-07）（[2023/review-compositional-layout](2023/review-compositional-layout)）
+- [Coding Swift with Visual Studio Code and Docker](https://www.docswell.com/s/usami-k/KQ8ENE-coding-swift-with-visual-studio-code-and-docker)（KyotoLT Online 第29回 / 2023-03-03）（[2023/swift-vscode-docker](2023/swift-vscode-docker)）
+- [Swift Extension for Visual Studio Code](https://www.docswell.com/s/usami-k/Z7V9L1-swift-extension-for-visual-studio-code)（Swift愛好会 vol.72 / 2023-02-27）（[2023/swift-vscode](2023/swift-vscode)）
 
 ### 2022
 
