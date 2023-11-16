@@ -4,7 +4,8 @@
 
 ### 2023
 
-- [Xcode 15のDocCプレビュー機能の紹介](https://www.docswell.com/s/usami-k/5W187P-swift-docc-xcode15)（YUMEMI.grow Mobile #8 /2023-11-08）（[2023/swift-docc-xcode15](2023/swift-docc-xcode15)）
+- [自分なりの技術書をつくりたい](https://www.docswell.com/s/usami-k/K6Y8YM-writing-mybook)（技術同人誌を紹介LT会 / 2023-11-16）（[2023/writing-mybook](2023/writing-mybook)）
+- [Xcode 15のDocCプレビュー機能の紹介](https://www.docswell.com/s/usami-k/5W187P-swift-docc-xcode15)（YUMEMI.grow Mobile #8 / 2023-11-08）（[2023/swift-docc-xcode15](2023/swift-docc-xcode15)）
 - [Apple HIG 正式名称クイズ結果発表](https://www.docswell.com/s/usami-k/KP9LX8-hig-quiz-result)（After iOSDC 兼ゆめみスカラシップ参加者発表会 / 2023-09-08）（[2023/iosdc-hig-quiz](2023/iosdc-hig-quiz)）
 - [ゆめみ大技林製作委員会の立ち上げの話](https://www.docswell.com/s/usami-k/KXY9QY-daigirin-project)（YUMEMI.grow 技術同人誌を支える技術 / 2023-08-23）（[2023/daigirin-project](2023/daigirin-project)）
 - [@ViewLoadingプロパティラッパの紹介と自前で実装する方法](https://www.docswell.com/s/usami-k/ZDE96N-at-viewloading-property-wrapper-implementation)（YUMEMI.grow Mobile #6 / 2023-08-10）（[2023/viewloading-property](2023/viewloading-property)）
