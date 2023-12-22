@@ -4,6 +4,7 @@
 
 ### 2023
 
+- [SwiftのObservationフレームワークによる値の監視](https://www.docswell.com/s/usami-k/5EN7JD-swift-observation)（YUMEMI.grow Mobile #9 / 2023-12-13）（[2023/swift-observation](2023/swift-observation)）
 - [自分なりの技術書をつくりたい](https://www.docswell.com/s/usami-k/K6Y8YM-writing-mybook)（技術同人誌を紹介LT会 / 2023-11-16）（[2023/writing-mybook](2023/writing-mybook)）
 - [Xcode 15のDocCプレビュー機能の紹介](https://www.docswell.com/s/usami-k/5W187P-swift-docc-xcode15)（YUMEMI.grow Mobile #8 / 2023-11-08）（[2023/swift-docc-xcode15](2023/swift-docc-xcode15)）
 - [Apple HIG 正式名称クイズ結果発表](https://www.docswell.com/s/usami-k/KP9LX8-hig-quiz-result)（After iOSDC 兼ゆめみスカラシップ参加者発表会 / 2023-09-08）（[2023/iosdc-hig-quiz](2023/iosdc-hig-quiz)）
