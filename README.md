@@ -25,7 +25,7 @@
 - [技術書典13 会社紹介 ゆめみ](https://www.docswell.com/s/usami-k/56Y1Y9-techbookfest13-yumemi)（技術書典13スペシャルオンラインイベント / 2022-09-25）
 - [SwiftPMのプラグイン機能をiOSアプリ開発に活用する](https://www.docswell.com/s/usami-k/ZRXYJN-development-app-with-swiftpm-plugins)（iOSDC Japan 2022 / 2022-09-10）（[2022/development-app-with-swiftpm-plugins](2022/development-app-with-swiftpm-plugins)）
 - [正規表現の少し進んだ機能](https://www.docswell.com/s/usami-k/58GRDQ-regex-lookahead)（KyotoLT Online 第27回 / 2022-08-19）（[2022/regex-lookahead](2022/regex-lookahead)）
-- [Swift Regexの話](https://speakerdeck.com/usamik26/swift-regex)（YUMEMI.swift #15 〜WWDC復習会〜 / 2022-06-27）（[2022/swift-regex](2022/swift-regex)）
+- [Swift Regexの話](https://www.docswell.com/s/usami-k/Z6Y2V7-swift-regex)（YUMEMI.swift #15 〜WWDC復習会〜 / 2022-06-27）（[2022/swift-regex](2022/swift-regex)）
 - [Meet Swift Regex](https://speakerdeck.com/usamik26/meet-swift-regex)（Swift愛好会スピンオフ WWDC22セッション要約会 / 2022-06-24）（[2022/meet-swift-regex](2022/meet-swift-regex)）
 - [SwiftPMのプラグイン機能を活用する](https://speakerdeck.com/usamik26/swiftpm-buildtool-plugins)（potatotips #77 / 2022-03-24）（[2022/swiftpm-buildtool-plugins](2022/swiftpm-buildtool-plugins)）
 - [Swift 5.6 で使えるようになった swift-docc-plugin を試してみる](https://speakerdeck.com/usamik26/try-swift-docc-plugin)（Swift愛好会 vol.66 / 2022-03-17）（[2022/try-swift-docc-plugin](2022/try-swift-docc-plugin)）
