@@ -2,6 +2,10 @@
 
 ## プレゼン資料
 
+### 2024
+
+- [ViewControllerのライフサイクル：viewIsAppearing](https://www.docswell.com/s/usami-k/5M1P4L-uiviewcontroller-viewisappearing)（YUMEMI.grow Mobile #10 / 2024-02-14）（[2024/uiviewcontroller-viewisappearing](2024/uiviewcontroller-viewisappearing)）
+
 ### 2023
 
 - [SwiftのObservationフレームワークによる値の監視](https://www.docswell.com/s/usami-k/5EN7JD-swift-observation)（YUMEMI.grow Mobile #9 / 2023-12-13）（[2023/swift-observation](2023/swift-observation)）
