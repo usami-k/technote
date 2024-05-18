@@ -4,6 +4,7 @@
 
 ### 2024
 
+- [Apple Pencil Proの新機能](https://www.docswell.com/s/usami-k/5984PJ-pencil-pro)（YUMEMI.grow Mobile #13 / 2024-05-17）（[2024/pencil-pro](2024/pencil-pro)）
 - [swift-dependenciesによるDI](https://www.docswell.com/s/usami-k/KNR6NE-swift-dependencies)（関西モバイルアプリ研究会A #2 / 2024-02-29）（[2024/swift-dependencies](2024/swift-dependencies)）
 - [ViewControllerのライフサイクル：viewIsAppearing](https://www.docswell.com/s/usami-k/5M1P4L-uiviewcontroller-viewisappearing)（YUMEMI.grow Mobile #10 / 2024-02-14）（[2024/uiviewcontroller-viewisappearing](2024/uiviewcontroller-viewisappearing)）
 
