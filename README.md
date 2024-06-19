@@ -4,6 +4,7 @@
 
 ### 2024
 
+- [SwiftのAccelerateフレームワーク](https://www.docswell.com/s/usami-k/ZM1JQ8-swift-accelerate-framework)（Mobile Act OSAKA 13 / 2024-05-31）（[2024/swift-accelerate-framework](2024/swift-accelerate-framework)）
 - [『パズルキューブSquare-1で遊ぼう』新刊紹介LT](https://www.docswell.com/s/usami-k/K24RRN-techbook-squareone)（技術同人誌を紹介LT会 / 2024-05-20）（[2024/techbook-squareone](2024/techbook-squareone)）
 - [Apple Pencil Proの新機能](https://www.docswell.com/s/usami-k/5984PJ-pencil-pro)（YUMEMI.grow Mobile #13 / 2024-05-17）（[2024/pencil-pro](2024/pencil-pro)）
 - [swift-dependenciesによるDI](https://www.docswell.com/s/usami-k/KNR6NE-swift-dependencies)（関西モバイルアプリ研究会A #2 / 2024-02-29）（[2024/swift-dependencies](2024/swift-dependencies)）
