@@ -4,6 +4,7 @@
 
 ### 2024
 
+- [業務レベルのiOSアプリ開発でどんな知識が求められるのか考えてみた](https://www.docswell.com/s/usami-k/ZEN6NR-ios-developer-knowledge)（YUMEMI.grow Mobile #14 / 2024-06-20）（[2024/ios-developer-knowledge](2024/ios-developer-knowledge)）
 - [SwiftのAccelerateフレームワーク](https://www.docswell.com/s/usami-k/ZM1JQ8-swift-accelerate-framework)（Mobile Act OSAKA 13 / 2024-05-31）（[2024/swift-accelerate-framework](2024/swift-accelerate-framework)）
 - [『パズルキューブSquare-1で遊ぼう』新刊紹介LT](https://www.docswell.com/s/usami-k/K24RRN-techbook-squareone)（技術同人誌を紹介LT会 / 2024-05-20）（[2024/techbook-squareone](2024/techbook-squareone)）
 - [Apple Pencil Proの新機能](https://www.docswell.com/s/usami-k/5984PJ-pencil-pro)（YUMEMI.grow Mobile #13 / 2024-05-17）（[2024/pencil-pro](2024/pencil-pro)）
