@@ -1,0 +1,17 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "marp export",
+            "type": "shell",
+            "command": "marp --pdf ${fileBasename} && cp ${fileBasenameNoExtension}.pdf ~/Documents/marp/",
+            "presentation": {
+                "reveal": "silent"
+            },
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}

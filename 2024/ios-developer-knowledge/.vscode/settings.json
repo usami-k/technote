@@ -1,0 +1,9 @@
+{
+    "runOnSave.commands": [
+        {
+            "match": "\\.md$",
+            "command": "workbench.action.tasks.build",
+            "runIn": "vscode"
+        }
+    ]
+}
