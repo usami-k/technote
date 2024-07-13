@@ -4,7 +4,7 @@
         {
             "label": "marp export",
             "type": "shell",
-            "command": "marp --pdf ${fileBasename} && cp ${fileBasenameNoExtension}.pdf ~/Documents/marp/",
+            "command": "marp --pdf ${fileBasename}",
             "presentation": {
                 "reveal": "silent"
             },
