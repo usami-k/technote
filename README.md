@@ -4,6 +4,7 @@
 
 ### 2024
 
+- [ポスターセッション紹介：クォータニオンをiOSのsimdモジュールで扱う](https://www.docswell.com/s/usami-k/K224NE-iosdc-2024-article-and-poster)（【非公式】iOSDC Japan 2024 プレイベント 〜パンフレット記事&ポスター編〜 / 2024-08-14）（[2024/iosdc-2024-article-and-poster](2024/iosdc-2024-article-and-poster)
 - [Apple Vision Pro の UI](https://www.docswell.com/s/usami-k/522LVR-apple-vision-pro-ui)（関西モバイルアプリ研究会A #4 / 2024-07-31）（[2024/apple-vision-pro-ui](2024/apple-vision-pro-ui)）
 - [Apple Vision Proのフォーカス操作](https://www.docswell.com/s/usami-k/5MXWVX-apple-vision-pro-eyes)（YUMEMI.grow Mobile #15 / 2024-07-17）（[2024/apple-vision-pro-eyes](2024/apple-vision-pro-eyes)）
 - [業務レベルのiOSアプリ開発でどんな知識が求められるのか考えてみた](https://www.docswell.com/s/usami-k/ZEN6NR-ios-developer-knowledge)（YUMEMI.grow Mobile #14 / 2024-06-20）（[2024/ios-developer-knowledge](2024/ios-developer-knowledge)）
