@@ -4,6 +4,7 @@
 
 ### 2024
 
+- [Swift Testingによる エラーのテスト](https://www.docswell.com/s/usami-k/KQRM9X-swift-testing-error)（YUMEMI.grow Mobile #17 / 2024-10-24）（[2024/swift-testing-error](2024/swift-testing-error)）
 - [Swift Testingを活用する](https://www.docswell.com/s/usami-k/522M9G-swift-testing-practice)（Mobile Act OSAKA 14 / 2024-10-18）（[2024/swift-testing-practice](2024/swift-testing-practice)）
 - [XCTestからSwift Testingへ](https://www.docswell.com/s/usami-k/5222XR-swift-testing)（関西モバイルアプリ研究会A #5 / 2024-09-25）（[2024/swift-testing](2024/swift-testing)）
 - [iOSDC Japan 2024 パンフ記事＆ポスターセッション紹介](https://www.docswell.com/s/usami-k/5224QE-iosdc-yumemi-premiere)（YUMEMI.grow Mobile #16 YUMEMI.premiere 〜iOSDC2024〜 / 2024-08-16）（[2024/iosdc-yumemi-premiere](2024/iosdc-yumemi-premiere)）
