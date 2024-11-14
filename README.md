@@ -4,6 +4,7 @@
 
 ### 2024
 
+- [Swift Testingのパラメトライズテスト](https://www.docswell.com/s/usami-k/KJ48E4-swift-testing-parameter)（【Sansan × YUMEMI】iOSランチタイムLT / 2024-11-14）（[2024/swift-testing-parameter](2024/swift-testing-parameter)）
 - [Swift Testingによる エラーのテスト](https://www.docswell.com/s/usami-k/KQRM9X-swift-testing-error)（YUMEMI.grow Mobile #17 / 2024-10-24）（[2024/swift-testing-error](2024/swift-testing-error)）
 - [Swift Testingを活用する](https://www.docswell.com/s/usami-k/522M9G-swift-testing-practice)（Mobile Act OSAKA 14 / 2024-10-18）（[2024/swift-testing-practice](2024/swift-testing-practice)）
 - [XCTestからSwift Testingへ](https://www.docswell.com/s/usami-k/5222XR-swift-testing)（関西モバイルアプリ研究会A #5 / 2024-09-25）（[2024/swift-testing](2024/swift-testing)）
