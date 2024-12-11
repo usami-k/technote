@@ -4,6 +4,7 @@
 
 ### 2024
 
+- [モバイルアプリのアクセシビリティを改めて勉強している話](https://www.docswell.com/s/usami-k/Z22Q66-app-accessibility)（YUMEMI.grow Mobile #18 / 2024-12-11）（[2024/app-accessibility](2024/app-accessibility)）
 - [Swift Testingのパラメトライズテスト](https://www.docswell.com/s/usami-k/KJ48E4-swift-testing-parameter)（【Sansan × YUMEMI】iOSランチタイムLT / 2024-11-14）（[2024/swift-testing-parameter](2024/swift-testing-parameter)）
 - [Swift Testingによる エラーのテスト](https://www.docswell.com/s/usami-k/KQRM9X-swift-testing-error)（YUMEMI.grow Mobile #17 / 2024-10-24）（[2024/swift-testing-error](2024/swift-testing-error)）
 - [Swift Testingを活用する](https://www.docswell.com/s/usami-k/522M9G-swift-testing-practice)（Mobile Act OSAKA 14 / 2024-10-18）（[2024/swift-testing-practice](2024/swift-testing-practice)）
