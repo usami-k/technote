@@ -4,6 +4,7 @@
 
 ### 2025
 
+- [iOSアプリ開発でもAIの助けを借りたい](https://www.docswell.com/s/usami-k/5XEQY4-develop-ios-app-with-ai)（YUMEMI.grow Mobile #19 / 2025-02-19）（[2025/20250219_develop-ios-app-with-ai](2025/20250219_develop-ios-app-with-ai)）
 - [iOS 18の視線トラッキング](https://www.docswell.com/s/usami-k/57R17D-ios-eye-tracking)（Mobile Act OSAKA 15 / 2025-02-18）（[2025/20250218_ios-eye-tracking](2025/20250218_ios-eye-tracking)）
 
 ### 2024
