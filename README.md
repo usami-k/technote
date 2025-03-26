@@ -4,6 +4,7 @@
 
 ### 2025
 
+- [『Think Fast, Talk Smart』](https://www.docswell.com/s/usami-k/Z82QJ2-think-fast-talk-smart)（読書シェア会 vol.3 / 2025-03-26）（[2025/20250326_think-fast-talk-smart](2025/20250326_think-fast-talk-smart)）
 - [VoiceOver API の基本](https://www.docswell.com/s/usami-k/5EXV71-voiceover-api)（YUMEMI.grow Mobile #20 / 2025-03-21）（[2025/20250321_voiceover-api](2025/20250321_voiceover-api)）
 - [iOSアプリ開発でもAIの助けを借りたい](https://www.docswell.com/s/usami-k/5XEQY4-develop-ios-app-with-ai)（YUMEMI.grow Mobile #19 / 2025-02-19）（[2025/20250219_develop-ios-app-with-ai](2025/20250219_develop-ios-app-with-ai)）
 - [iOS 18の視線トラッキング](https://www.docswell.com/s/usami-k/57R17D-ios-eye-tracking)（Mobile Act OSAKA 15 / 2025-02-18）（[2025/20250218_ios-eye-tracking](2025/20250218_ios-eye-tracking)）
