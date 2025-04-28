@@ -1,5 +1,9 @@
-### https://raw.github.com/github/gitignore/218a941be92679ce67d0484547e3e142b2f5f6f0/Global/macOS.gitignore
+*.pdf
 
+# Created by https://www.toptal.com/developers/gitignore/api/macOS
+# Edit at https://www.toptal.com/developers/gitignore?templates=macOS
+
+### macOS ###
 # General
 .DS_Store
 .AppleDouble
@@ -27,4 +31,8 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+### macOS Patch ###
+# iCloud generated files
+*.icloud
 
+# End of https://www.toptal.com/developers/gitignore/api/macOS
