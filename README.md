@@ -4,6 +4,7 @@
 
 ### 2025
 
+- [Swift Testingのアップデート](https://www.docswell.com/s/usami-k/K4VG3J-swift-testing-updates)（関西モバイルアプリ研究会A #8 / 2025-06-04）（[2025/20250604_swift-testing-updates](2025/20250604_swift-testing-updates)）
 - [テーブルのセルの VoiceOver 対応](https://www.docswell.com/s/usami-k/ZR2449-voiceover-cell)（YUMEMI.grow Mobile #21 / 2025-04-23）（[2025/20250423_voiceover-cell](2025/20250423_voiceover-cell)）
 - [『Think Fast, Talk Smart』](https://www.docswell.com/s/usami-k/Z82QJ2-think-fast-talk-smart)（読書シェア会 vol.3 / 2025-03-26）（[2025/20250326_think-fast-talk-smart](2025/20250326_think-fast-talk-smart)）
 - [VoiceOver API の基本](https://www.docswell.com/s/usami-k/5EXV71-voiceover-api)（YUMEMI.grow Mobile #20 / 2025-03-21）（[2025/20250321_voiceover-api](2025/20250321_voiceover-api)）
