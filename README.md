@@ -4,6 +4,7 @@
 
 ### 2025
 
+- [Apple Style Guideを読む](https://www.docswell.com/s/usami-k/ZJ8J8N-apple-style-guide-2)（YUMEMI.grow Mobile #23 / 2025-07-28）（[2025/20250728_apple-style-guide-2](2025/20250728_apple-style-guide-2)）
 - [Apple Style Guideを読む](https://www.docswell.com/s/usami-k/KQ1GXE-apple-style-guide)（Mobile Act OSAKA 16 / 2025-07-04）（[2025/20250704_apple-style-guide](2025/20250704_apple-style-guide)）
 - [Xcode ＋ AIアシスト](https://www.docswell.com/s/usami-k/5G13RM-xcode-with-ai-assist)（YUMEMI.grow Mobile #22 / 2025-06-20）（[2025/20250620_xcode-with-ai-assist](2025/20250620_xcode-with-ai-assist)）
 - [Swift Testingのアップデート](https://www.docswell.com/s/usami-k/K4VG3J-swift-testing-updates)（関西モバイルアプリ研究会A #8 / 2025-06-04）（[2025/20250604_swift-testing-updates](2025/20250604_swift-testing-updates)）
