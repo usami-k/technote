@@ -4,6 +4,7 @@
 
 ### 2025
 
+- [技術同人誌の紹介](https://www.docswell.com/s/usami-k/5YV6R7-techbook)（2025-10-07）（[2025/20251007_techbook](2025/20251007_techbook)）
 - [記事『RealityKit の ECS パターン』の執筆で考えたこと](https://www.docswell.com/s/usami-k/544RNQ-iosdc-article)（2025-09-16）（[2025/20250916_iosdc-article](2025/20250916_iosdc-article)）
 - [『数学ガール／リーマン予想』](https://www.docswell.com/s/usami-k/KQX4XM-mathgirl-Riemann)（読書シェア会 vol.8 / 2025-08-28）（[2025/20250828_mathgirl-Riemann](2025/20250828_mathgirl-Riemann)）
 - [AIに30分でiOSアプリ実装させた話](https://www.docswell.com/s/usami-k/KG2MQP-shunsaku)（YUMEMI.grow Mobile #24 / 2025-08-27）（[2025/20250827_shunsaku](2025/20250827_shunsaku)）

@@ -1,0 +1,13 @@
+{
+  "plugins": {
+    "typst": true
+  },
+  "filters": {
+    "comments": true
+  },
+  "rules": {
+    "@textlint-ja/preset-ai-writing": true,
+    "preset-ja-spacing": true,
+    "preset-ja-technical-writing": true
+  }
+}
