@@ -4,6 +4,7 @@
 
 ### 2025
 
+- [iOSの設計にMVVMを使わない理由](https://www.docswell.com/s/usami-k/59MP99-mvvm-yumemigrow)（YUMEMI.grow Mobile #25 / 2025-11-25）（[2025/20251125_yumemi-grow-mobile](2025/20251125_yumemi-grow-mobile)）
 - [組版ソフトウェアTypst](https://www.docswell.com/s/usami-k/K2Q6Q9-typst)（社内勉強会 / 2025-11-07）（[2025/20251107_typst](2025/20251107_typst)）
 - [技術同人誌の紹介](https://www.docswell.com/s/usami-k/5YV6R7-techbook)（社内勉強会 / 2025-10-07）（[2025/20251007_techbook](2025/20251007_techbook)）
 - [記事『RealityKit の ECS パターン』の執筆で考えたこと](https://www.docswell.com/s/usami-k/544RNQ-iosdc-article)（iOSDC Japan 2025 パンフ記事を眺める会 at YUMEMI.grow / 2025-09-16）（[2025/20250916_iosdc-article](2025/20250916_iosdc-article)）
