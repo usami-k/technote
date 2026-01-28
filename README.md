@@ -2,6 +2,10 @@
 
 ## プレゼン資料
 
+### 2026
+
+- [iOSアプリ開発のPathway](https://www.docswell.com/s/usami-k/KDWPYR-ios-pathways)（YUMEMI.grow Mobile #26 / 2026-01-28）（[2026/20260128_ios-pathways](2026/20260128_ios-pathways)）
+
 ### 2025
 
 - [iOSの設計にMVVMを使わない理由](https://www.docswell.com/s/usami-k/59MP99-mvvm-yumemigrow)（YUMEMI.grow Mobile #25 / 2025-11-25）（[2025/20251125_yumemi-grow-mobile](2025/20251125_yumemi-grow-mobile)）
