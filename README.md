@@ -4,6 +4,7 @@
 
 ### 2026
 
+- [Xcode 26.3のAIエージェント機能を活用する](https://www.docswell.com/s/usami-k/58NYNQ-xcode-ai-agent)（Mobile Act OSAKA 18 / 2026-03-06）（[2026/20260306_mobile-act-osaka](2026/20260306_mobile-act-osaka)）
 - [iOSアプリ開発のPathway](https://www.docswell.com/s/usami-k/KDWPYR-ios-pathways)（YUMEMI.grow Mobile #26 / 2026-01-28）（[2026/20260128_ios-pathways](2026/20260128_ios-pathways)）
 
 ### 2025
