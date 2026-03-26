@@ -1,0 +1,19 @@
+[tools]
+node = "24"
+typst = "latest"
+typstyle = "latest"
+
+[env]
+SLIDE_MAIN = "xcode-ai-agent-ios.typ"
+
+[tasks.build]
+description = "スライドPDFをビルドする"
+run = "typst compile \"$SLIDE_MAIN\""
+
+[tasks.format]
+description = "Typstファイルを整形する"
+run = "typstyle --inplace \"$SLIDE_MAIN\""
+
+[tasks.lint]
+description = "Typstテキストを校正する"
+run = "npx textlint \"$SLIDE_MAIN\""
